@@ -141,10 +141,6 @@ require_once( "$IP/extensions/Gadgets/Gadgets.php" );
 require_once( "$IP/extensions/ParserFunctions/ParserFunctions.php" );
 require_once( "$IP/extensions/WikiEditor/WikiEditor.php" );
 
-# Additional Extensions in use
-require_once( "$IP/extensions/Code/Code.php" );
-require_once("$IP/extensions/notitle.php");
-
 $wgCapitalLinks =false; 
 
 $wgShowExceptionDetails = true; 
@@ -152,20 +148,71 @@ $wgShowExceptionDetails = true;
 # End of automatically generated settings.
 # Add more configuration options below.
 
+$wgUploadDirectory = "{$IP}/images";
+
+# Additional Extensions in use
+require_once( "$IP/extensions/Code/Code.php" );
+require_once("$IP/extensions/notitle.php");
 require_once( "$IP/extensions/CCAgreement/CCAgreement.php" );
 require_once( "$IP/extensions/Vector/Vector.php" );
 require_once( "$IP/extensions/ContactPage/ContactPage.php" );
 require_once( "$IP/extensions/SignDocument/SignDocument.php" );
-
-#setup user rights here
+require_once("$IP/extensions/SocialProfile/SocialProfile.php");
 require_once("$IP/extensions/WikiForum/WikiForum.php");
-$wgGroupPermissions['ForumModerator']['wikiforumadmin'] = true;
-$wgGroupPermissions['ForumAdmin']['wikiforumadmin']     = true;
-$wgGroupPermissions['ForumModerator']['wikiforummod']   = true;
-$wgGroupPermissions['ForumAdmin']['wikiforummod']       = true;
 
 $wgMainCacheType = CACHE_NONE;
 
+# wiki forum permissions
+$wgGroupPermissions['ForumModerator']['wikiforumadmin'] = false; $wgGroupPermissions['ForumAdmin']['wikiforumadmin'] = true; $wgGroupPermissions['ForumModerator']['wikiforummod'] = true; $wgGroupPermissions['ForumAdmin']['wikiforummod'] = true;
+
+# social profile
+
+$wgUserProfileDisplay['friends'] = true;
+$wgUserProfileDisplay['stats'] = true;
+
+require_once("$IP/extensions/SocialProfile/UserStats/EditCount.php"); // Necessary edit counter
+// The actual user level definitions -- key is simple: 'Level name' => points needed
+$wgUserLevels = array(
+        'Bubblemaker' => 0,
+        'Open Water Diver' => 1200,
+        'Adventure Diver' => 1750,
+        'Advanced Open Water Diver' => 2500,
+        'Rescue Diver' => 5000,
+        'Deep Diver' => 10000,
+        'Night Diver' => 20000,
+        'Wreck Diver' => 35000,
+        'Ice Diver' => 50000,
+        'Cave Diver' => 75000,
+        'Master Scuba Diver' => 100000,
+        'Divemaster ' => 150000,
+        'Open Water Scuba Instructor' => 250000,
+        'Assistant Instructor' => 350000,
+        'Open Water Scuba Instructor' => 500000,
+        'Specialty Instructor' => 650000,
+        'Master Scuba Diver Trainer' => 800000,
+        'Master Scuba Diver Instructor' => 1000000,
+);
+
+//$wgUserStatsPointValues['create'] = 100; // Points awarded on a mainspace edit
+$wgUserStatsPointValues['edit'] = 50; // Points awarded on a mainspace edit
+$wgUserStatsPointValues['vote'] = 0; // Points awarded for voting for an article
+$wgUserStatsPointValues['comment'] = 0; // Points awarded for leaving a comment
+$wgUserStatsPointValues['comment_plus'] = 0; // Points awarded if your comment gets a thumbs up
+$wgUserStatsPointValues['comment_ignored'] = 0; // Points awarded if another user ignores your comments
+$wgUserStatsPointValues['opinions_created'] = 0; // Points awarded for writing a blog article
+$wgUserStatsPointValues['opinions_pub'] = 0; // Points awarded for having that article hit the "Blogs" page
+$wgUserStatsPointValues['referral_complete'] = 0; // Points awarded for recruiting a new user
+$wgUserStatsPointValues['friend'] = 50; // Points awarded for adding a friend
+$wgUserStatsPointValues['foe'] = 50; // Points awarded for adding a foe
+$wgUserStatsPointValues['gift_rec'] = 0; // Points awarded for receiving a gift
+$wgUserStatsPointValues['gift_sent'] = 0; // Points awarded for giving a gift
+$wgUserStatsPointValues['points_winner_weekly'] = 0; // Points awarded for having the most points for a week
+$wgUserStatsPointValues['points_winner_monthly'] = 0; // Points awarded for having the most points for a month
+$wgUserStatsPointValues['user_image'] = 1000; // Points awareded for adding your first avatar
+$wgUserStatsPointValues['poll_vote'] = 0; // Points awarded for taking a poll
+$wgUserStatsPointValues['quiz_points'] = 0; // Points awarded for answering a quiz question
+$wgUserStatsPointValues['quiz_created'] = 0; // Points awarded for creating a quiz question
+$wgNamespacesForEditPoints = array( 0 ); // Array of namespaces for that can earn you points. Use numerical keys. Default is 0 -- only main namespace edits can earn a user points.
 
 # contact page variables
 $wgContactUser = 'Fusion94';
