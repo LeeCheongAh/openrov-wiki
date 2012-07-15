@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/102135/trunk/extensions/SocialProfile/UserSystemMessages
+END
+UserSystemMessagesClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mediawiki/!svn/ver/102135/trunk/extensions/SocialProfile/UserSystemMessages/UserSystemMessagesClass.php
+END
+user_system_messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/98068/trunk/extensions/SocialProfile/UserSystemMessages/user_system_messages.sql
+END
+user_system_messages.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/mediawiki/!svn/ver/75695/trunk/extensions/SocialProfile/UserSystemMessages/user_system_messages.postgres.sql
+END

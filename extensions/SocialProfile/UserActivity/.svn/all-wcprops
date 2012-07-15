@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/UserActivity
+END
+UserActivity.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/UserActivity/UserActivity.i18n.php
+END
+UserActivity.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/106136/trunk/extensions/SocialProfile/UserActivity/UserActivity.php
+END
+UserActivity.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/51713/trunk/extensions/SocialProfile/UserActivity/UserActivity.css
+END
+UserActivityClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102177/trunk/extensions/SocialProfile/UserActivity/UserActivityClass.php
+END
+SiteActivityHook.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92385/trunk/extensions/SocialProfile/UserActivity/SiteActivityHook.php
+END
+UserActivity.body.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/84900/trunk/extensions/SocialProfile/UserActivity/UserActivity.body.php
+END

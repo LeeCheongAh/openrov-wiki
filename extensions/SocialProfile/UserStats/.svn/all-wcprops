@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/UserStats
+END
+user_stats.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/90829/trunk/extensions/SocialProfile/UserStats/user_stats.postgres.sql
+END
+GenerateTopUsersReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/110248/trunk/extensions/SocialProfile/UserStats/GenerateTopUsersReport.php
+END
+TopFansRecent.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102132/trunk/extensions/SocialProfile/UserStats/TopFansRecent.php
+END
+UserStats.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/UserStats/UserStats.i18n.php
+END
+EditCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/102132/trunk/extensions/SocialProfile/UserStats/EditCount.php
+END
+TopList.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102132/trunk/extensions/SocialProfile/UserStats/TopList.css
+END
+TopUsersTag.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/93992/trunk/extensions/SocialProfile/UserStats/TopUsersTag.php
+END
+TopFansByStat.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102132/trunk/extensions/SocialProfile/UserStats/TopFansByStat.php
+END
+UserStatsClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102132/trunk/extensions/SocialProfile/UserStats/UserStatsClass.php
+END
+TopUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/102132/trunk/extensions/SocialProfile/UserStats/TopUsers.php
+END
+user_stats.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/98068/trunk/extensions/SocialProfile/UserStats/user_stats.sql
+END
+SpecialUpdateEditCounts.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/102292/trunk/extensions/SocialProfile/UserStats/SpecialUpdateEditCounts.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/107261/trunk/extensions/SocialProfile/UserRelationship
+END
+SpecialViewRelationshipRequests.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/mediawiki/!svn/ver/102288/trunk/extensions/SocialProfile/UserRelationship/SpecialViewRelationshipRequests.php
+END
+SpecialAddRelationship.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/102288/trunk/extensions/SocialProfile/UserRelationship/SpecialAddRelationship.php
+END
+user_relationship.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mediawiki/!svn/ver/75695/trunk/extensions/SocialProfile/UserRelationship/user_relationship.postgres.sql
+END
+Relationship_AjaxFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mediawiki/!svn/ver/102133/trunk/extensions/SocialProfile/UserRelationship/Relationship_AjaxFunctions.php
+END
+UserRelationship.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/107261/trunk/extensions/SocialProfile/UserRelationship/UserRelationship.i18n.php
+END
+SpecialRemoveRelationship.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/92621/trunk/extensions/SocialProfile/UserRelationship/SpecialRemoveRelationship.php
+END
+SpecialViewRelationships.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/102288/trunk/extensions/SocialProfile/UserRelationship/SpecialViewRelationships.php
+END
+UserRelationship.css
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/59109/trunk/extensions/SocialProfile/UserRelationship/UserRelationship.css
+END
+UserRelationship.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/68271/trunk/extensions/SocialProfile/UserRelationship/UserRelationship.js
+END
+UserRelationshipClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/104105/trunk/extensions/SocialProfile/UserRelationship/UserRelationshipClass.php
+END
+user_relationship.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/98068/trunk/extensions/SocialProfile/UserRelationship/user_relationship.sql
+END

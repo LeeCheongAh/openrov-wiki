@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/115400/trunk/extensions/SocialProfile/UserProfile
+END
+SpecialPopulateExistingUsersProfiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/mediawiki/!svn/ver/85539/trunk/extensions/SocialProfile/UserProfile/SpecialPopulateExistingUsersProfiles.php
+END
+UserProfilePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/115400/trunk/extensions/SocialProfile/UserProfile/UserProfilePage.php
+END
+SpecialRemoveAvatar.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92546/trunk/extensions/SocialProfile/UserProfile/SpecialRemoveAvatar.php
+END
+UserProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/95507/trunk/extensions/SocialProfile/UserProfile/UserProfile.php
+END
+UserProfile.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/UserProfile.css
+END
+SpecialUpdateProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/SpecialUpdateProfile.php
+END
+AvatarClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/AvatarClass.php
+END
+user_profile.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/98068/trunk/extensions/SocialProfile/UserProfile/user_profile.sql
+END
+SpecialEditProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/SpecialEditProfile.php
+END
+user_profile.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/75695/trunk/extensions/SocialProfile/UserProfile/user_profile.postgres.sql
+END
+UserProfile.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/UserProfile/UserProfile.i18n.php
+END
+SpecialToggleUserPageType.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/SpecialToggleUserPageType.php
+END
+UserProfilePage.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/UserProfilePage.js
+END
+SpecialUploadAvatar.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/115379/trunk/extensions/SocialProfile/UserProfile/SpecialUploadAvatar.php
+END
+UserProfileClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/UserProfileClass.php
+END
+UpdateProfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102290/trunk/extensions/SocialProfile/UserProfile/UpdateProfile.js
+END

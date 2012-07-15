@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mediawiki/!svn/ver/107261/trunk/extensions/SocialProfile/UserGifts
+END
+UserGifts.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/107261/trunk/extensions/SocialProfile/UserGifts/UserGifts.i18n.php
+END
+UserGifts.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/68271/trunk/extensions/SocialProfile/UserGifts/UserGifts.js
+END
+UserGiftsClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/104105/trunk/extensions/SocialProfile/UserGifts/UserGiftsClass.php
+END
+GiftsClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/102180/trunk/extensions/SocialProfile/UserGifts/GiftsClass.php
+END
+SpecialGiveGift.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/91214/trunk/extensions/SocialProfile/UserGifts/SpecialGiveGift.php
+END
+SpecialGiftManagerLogo.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/102180/trunk/extensions/SocialProfile/UserGifts/SpecialGiftManagerLogo.php
+END
+SpecialViewGifts.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/90781/trunk/extensions/SocialProfile/UserGifts/SpecialViewGifts.php
+END
+SpecialRemoveGift.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/90787/trunk/extensions/SocialProfile/UserGifts/SpecialRemoveGift.php
+END
+UserGifts.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/48323/trunk/extensions/SocialProfile/UserGifts/UserGifts.css
+END
+Gifts.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/106136/trunk/extensions/SocialProfile/UserGifts/Gifts.php
+END
+usergifts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/98068/trunk/extensions/SocialProfile/UserGifts/usergifts.sql
+END
+SpecialRemoveMasterGift.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/90783/trunk/extensions/SocialProfile/UserGifts/SpecialRemoveMasterGift.php
+END
+SpecialViewGift.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92625/trunk/extensions/SocialProfile/UserGifts/SpecialViewGift.php
+END
+SpecialGiftManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/102180/trunk/extensions/SocialProfile/UserGifts/SpecialGiftManager.php
+END
+usergifts.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/75695/trunk/extensions/SocialProfile/UserGifts/usergifts.postgres.sql
+END

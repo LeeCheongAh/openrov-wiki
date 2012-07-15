@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/UserBoard
+END
+UserBoard.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/91173/trunk/extensions/SocialProfile/UserBoard/UserBoard.js
+END
+UserBoardClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/104097/trunk/extensions/SocialProfile/UserBoard/UserBoardClass.php
+END
+user_board.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/98068/trunk/extensions/SocialProfile/UserBoard/user_board.sql
+END
+BoardBlast.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/59111/trunk/extensions/SocialProfile/UserBoard/BoardBlast.css
+END
+BoardBlast.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/91173/trunk/extensions/SocialProfile/UserBoard/BoardBlast.js
+END
+UserBoard_AjaxFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/59111/trunk/extensions/SocialProfile/UserBoard/UserBoard_AjaxFunctions.php
+END
+user_board.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/75695/trunk/extensions/SocialProfile/UserBoard/user_board.postgres.sql
+END
+UserBoard.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/UserBoard/UserBoard.i18n.php
+END
+SpecialUserBoard.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/102178/trunk/extensions/SocialProfile/UserBoard/SpecialUserBoard.php
+END
+UserBoard.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/102178/trunk/extensions/SocialProfile/UserBoard/UserBoard.css
+END
+SpecialSendBoardBlast.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/94905/trunk/extensions/SocialProfile/UserBoard/SpecialSendBoardBlast.php
+END

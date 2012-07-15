@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/SystemGifts
+END
+SpecialRemoveMasterSystemGift.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/93195/trunk/extensions/SocialProfile/SystemGifts/SpecialRemoveMasterSystemGift.php
+END
+systemgifts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/98068/trunk/extensions/SocialProfile/SystemGifts/systemgifts.sql
+END
+SpecialSystemGiftManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/110206/trunk/extensions/SocialProfile/SystemGifts/SpecialSystemGiftManager.php
+END
+SpecialViewSystemGift.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/102176/trunk/extensions/SocialProfile/SystemGifts/SpecialViewSystemGift.php
+END
+SpecialSystemGiftManagerLogo.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/102176/trunk/extensions/SocialProfile/SystemGifts/SpecialSystemGiftManagerLogo.php
+END
+SpecialPopulateAwards.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/84900/trunk/extensions/SocialProfile/SystemGifts/SpecialPopulateAwards.php
+END
+SystemGift.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/113567/trunk/extensions/SocialProfile/SystemGifts/SystemGift.i18n.php
+END
+SpecialViewSystemGifts.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/90796/trunk/extensions/SocialProfile/SystemGifts/SpecialViewSystemGifts.php
+END
+systemgifts.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/75695/trunk/extensions/SocialProfile/SystemGifts/systemgifts.postgres.sql
+END
+SystemGift.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92526/trunk/extensions/SocialProfile/SystemGifts/SystemGift.css
+END
+SystemGifts.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/92526/trunk/extensions/SocialProfile/SystemGifts/SystemGifts.php
+END
+TopAwards.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92631/trunk/extensions/SocialProfile/SystemGifts/TopAwards.php
+END
+UserSystemGiftsClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/104105/trunk/extensions/SocialProfile/SystemGifts/UserSystemGiftsClass.php
+END
+SystemGiftsClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/110206/trunk/extensions/SocialProfile/SystemGifts/SystemGiftsClass.php
+END
