@@ -776,7 +776,8 @@ class UserProfilePage extends Article {
 		$stats = new UserStats( $user_id, $user_name );
 		$stats_data = $stats->getUserStats();
 		$user_level = new UserLevel( $stats_data['points'] );
-		$level_link = Title::makeTitle( NS_HELP, wfMsgForContent( 'user-profile-userlevels-link' ) );
+		//$level_link = Title::makeTitle( NS_HELP, wfMsgForContent( 'user-profile-userlevels-link' ) );
+		$level_link = Title::makeTitle(User_Levels, wfMsgForContent( 'user-profile-userlevels-link' ) );
 
 		$this->initializeProfileData( $user_name );
 		$profile_data = $this->profile_data;
