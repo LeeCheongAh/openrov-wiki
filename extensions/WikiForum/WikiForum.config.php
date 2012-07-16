@@ -7,7 +7,7 @@
 			$wikiconf["install_date"] = "1342318516";
 
 			// if true then a link to WikiForum will also be available in Toolbox
-			$wikiconf["link_in_toolbox"] 	= true;
+			$wikiconf["link_in_toolbox"] 	= false;
 
 			// if true then tags <WikiForumList /> and <WikiForumThread /> are available.
 			// Definition of <WikiForumList num=value /> 
