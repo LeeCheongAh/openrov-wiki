@@ -194,7 +194,7 @@ $wgUserLevels = array(
 );
 
 //$wgUserStatsPointValues['create'] = 1000; // Points awarded on a mainspace edit
-$wgUserStatsPointValues['edit'] = 50; // Points awarded on a mainspace edit
+$wgUserStatsPointValues['edit'] = 100; // Points awarded on a mainspace edit
 $wgUserStatsPointValues['vote'] = 0; // Points awarded for voting for an article
 $wgUserStatsPointValues['comment'] = 0; // Points awarded for leaving a comment
 $wgUserStatsPointValues['comment_plus'] = 0; // Points awarded if your comment gets a thumbs up
