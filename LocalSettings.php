@@ -193,7 +193,7 @@ $wgUserLevels = array(
         'Master Scuba Diver Instructor' => 1000000,
 );
 
-//$wgUserStatsPointValues['create'] = 100; // Points awarded on a mainspace edit
+//$wgUserStatsPointValues['create'] = 1000; // Points awarded on a mainspace edit
 $wgUserStatsPointValues['edit'] = 50; // Points awarded on a mainspace edit
 $wgUserStatsPointValues['vote'] = 0; // Points awarded for voting for an article
 $wgUserStatsPointValues['comment'] = 0; // Points awarded for leaving a comment
@@ -222,4 +222,10 @@ $wgContactSenderName = 'Contact Form on ' . $wgSitename;
 $wgVectorFeatures['collapsiblenav']['global'] = true;
 # Disable reading by anonymous users
 #$wgGroupPermissions['*']['read'] = false;
+
+## Disable all forms of MediaWiki caching
+#$wgMainCacheType = CACHE_NONE;
+#$wgMessageCacheType = CACHE_NONE;
+#$wgParserCacheType = CACHE_NONE;
+#$wgCachePages = false;
 

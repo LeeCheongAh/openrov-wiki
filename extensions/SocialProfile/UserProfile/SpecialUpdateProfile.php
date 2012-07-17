@@ -518,7 +518,7 @@ class SpecialUpdateProfile extends UnlistedSpecialPage {
 			<p class="profile-update-title">' . wfMsg( 'user-profile-personal-aboutme' ) . '</p>
 			<p class="profile-update-unit-left">' . wfMsg( 'user-profile-personal-aboutme' ) . '</p>
 			<p class="profile-update-unit">
-				<textarea name="about" id="about" rows="3" cols="75">' . ( isset( $about ) ? $about : '' ) . '</textarea>
+				<textarea name="about" id="about" rows="10" cols="75">' . ( isset( $about ) ? $about : '' ) . '</textarea>
 			</p>
 			<div class="cleared"></div>
 		</div>
@@ -558,7 +558,7 @@ class SpecialUpdateProfile extends UnlistedSpecialPage {
 			<p class="profile-update-title">' . wfMsg( 'user-profile-personal-web' ) . '</p>
 			<p class="profile-update-unit-left">' . wfMsg( 'user-profile-personal-websites' ) . '</p>
 			<p class="profile-update-unit">
-				<textarea name="websites" id="websites" rows="2" cols="75">' . ( isset( $websites ) ? $websites : '' ) . '</textarea>
+				<textarea name="websites" id="websites" rows="10" cols="75">' . ( isset( $websites ) ? $websites : '' ) . '</textarea>
 			</p>
 			<div class="cleared"></div>
 		</div>
