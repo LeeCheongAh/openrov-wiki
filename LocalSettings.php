@@ -76,7 +76,7 @@ $wgEnableUploads  = true;
 $wgUseImageMagick = true;
 $wgImageMagickConvertCommand = "/usr/bin/convert";
 
-$wgUploadPath = "$IP/images/";
+#$wgUploadPath = "$IP/images/";
 
 # InstantCommons allows wiki to use images from http://commons.wikimedia.org
 $wgUseInstantCommons  = true;
