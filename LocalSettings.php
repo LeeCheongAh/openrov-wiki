@@ -43,8 +43,8 @@ $wgLogo             = "$wgStylePath/common/images/wiki.png";
 $wgEnableEmail      = true;
 $wgEnableUserEmail  = true; # UPO
 
-$wgEmergencyContact = "apache@wiki.openrov.dev";
-$wgPasswordSender   = "apache@wiki.openrov.dev";
+$wgEmergencyContact = "admin@wiki.openrov.com";
+$wgPasswordSender   = "admin@wiki.openrov.com";
 
 $wgEnotifUserTalk      = false; # UPO
 $wgEnotifWatchlist     = false; # UPO
@@ -166,6 +166,7 @@ $wgMainCacheType = CACHE_NONE;
 $wgGroupPermissions['ForumModerator']['wikiforumadmin'] = false; $wgGroupPermissions['ForumAdmin']['wikiforumadmin'] = true; $wgGroupPermissions['ForumModerator']['wikiforummod'] = true; $wgGroupPermissions['ForumAdmin']['wikiforummod'] = true;
 
 # social profile
+$wgGroupPermissions['sysop']['updatepoints'] = true;
 
 $wgUserProfileDisplay['friends'] = true;
 $wgUserProfileDisplay['stats'] = true;
@@ -212,7 +213,7 @@ $wgUserStatsPointValues['user_image'] = 1000; // Points awareded for adding your
 $wgUserStatsPointValues['poll_vote'] = 0; // Points awarded for taking a poll
 $wgUserStatsPointValues['quiz_points'] = 0; // Points awarded for answering a quiz question
 $wgUserStatsPointValues['quiz_created'] = 0; // Points awarded for creating a quiz question
-$wgNamespacesForEditPoints = array( 0 ); // Array of namespaces for that can earn you points. Use numerical keys. Default is 0 -- only main namespace edits can earn a user points.
+$wgNamespacesForEditPoints = array( 0, 2, 202 ); // Array of namespaces for that can earn you points. Use numerical keys. Default is 0 -- only main namespace edits can earn a user points.
 
 # contact page variables
 $wgContactUser = 'Fusion94';
@@ -228,4 +229,13 @@ $wgVectorFeatures['collapsiblenav']['global'] = true;
 #$wgMessageCacheType = CACHE_NONE;
 #$wgParserCacheType = CACHE_NONE;
 #$wgCachePages = false;
+
+
+require_once("$IP/extensions/ConfirmEdit/ReCaptcha.php"); 
+$wgCaptchaClass = 'ReCaptcha';
+$wgReCaptchaPublicKey = '6Ld34NQSAAAAAE_F1udSVzrtcFd3TrnQR8WfqMJA';
+$wgReCaptchaPrivateKey = '6Ld34NQSAAAAANkvZ0hDaEzDd1mwfBVMJDQZTW-t';
+
+
+
 
